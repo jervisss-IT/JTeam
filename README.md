@@ -4,7 +4,7 @@ I've been creating addons for Garry's Mod for 6 years
 And created more than 100 custom systems for this game
 
 I mostly worked for RP gamemodes
-I also have two personal game mods (AevumRP,Rust,DayZ)
+I also have 3 personal game mods (AevumRP,Rust,DayZ)
 
 # Projects we worked on :
 
